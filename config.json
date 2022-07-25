@@ -1,0 +1,247 @@
+{
+  "Config": [
+    {
+      "interval": 2,
+      "backup": "ironsource",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294xxx",
+      "admob_banner": "ca-app-pub-9730108346595961/7159581394",
+      "admob_inter": "ca-app-pub-9730108346595961/4533418056",
+      "admob_native": "ca-app-pub-9730108346595961/8473526434",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "15b73951d",
+      "ironsource_inter": "15b73951d",
+
+      "fan_banner":"690288745488469_690292128821464",
+      "fan_inter":"690288745488469_690292222154788",
+      "fan_native":"690288745488469_690292378821439"
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+        "name": "Casita from'Encanto'",
+        "role": "This is La Casa Madrigal or Casita from Disney's 'Encant0'. The rooms you can go inside are Antonio's Room, Bruno's room inside the walls, Bruno's Tower and Isabela's Room ( it'll tp you when you go inside. Can't fit those massive rooms in the house of course).",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/La Casa Madrigal.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/1.jpeg"
+    },
+    {
+        "name": "Encanto Adventure",
+        "role": "Live a magical adventure with charm in where you will discover the magic of family madrigal, entering a unique experience and appreciating its charm.The enchantment includes the house of the madrigal family, the house is identical to the one in the movie with the interior and all rooms decorated and thewonderful town of charm and remember ¡We don't talk about Bruno!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/empat.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/ENCANTO_ADVENTURE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/dua.jpeg"
+    },
+    {
+        "name": "Encanto - Casita Madrigal",
+        "role": "The new Disney movie Encanto has arrived in Minecraft! Now you can visit the madrigal family house, the house is identical to the movie with interior and all decorated rooms.Download now and enjoy!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/[Encanto] Casita.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/dua.png"
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/2Jlkr__km7HSPMO3_wiiRN9H4znIl1hdkMzxw8KMFLoOXOxTFFIP9L7OX6O6CLsUEm3zlMJbuKBOdjhiZxTzpqSpP7lDfovWkNmh",
+    "view_skin": "https://lh3.googleusercontent.com/B5z0-NV0jct2niUPaf5emTFeJGwC0lA-065T61YEUaqA3F0sQOz4swdTYQOk-BCQfChn8WhfP1RyJ57OB3CkhuryGC0kmmF-HUs"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/2Jlkr__km7HSPMO3_wiiRN9H4znIl1hdkMzxw8KMFLoOXOxTFFIP9L7OX6O6CLsUEm3zlMJbuKBOdjhiZxTzpqSpP7lDfovWkNmh",
+    "view_skin": "https://lh3.googleusercontent.com/kYslzH3sDiB9qiLKzMmqMxG9U8LlYPubYgj_suBOnetRU6_78mGlyWU5vhiR9x5kAVHrGExr_ub6jatlvQb5SoQeGnOnQmysLQ"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/OAMTJ60PweIObIJDwcY-xJ1aPGj6olkYQcWYhVmoIGKNwNzJXlM6JVYkptfW_vGa7LoQ5_149gmsJXuKQaCvedZqKQIZz3ozryA",
+    "view_skin": "https://lh3.googleusercontent.com/SkyEb4A9JB--N0-dc96C06igyQff14MMOw7nScgFwN5pmeRiBuf0MsHMsNZuPSp8VjtNfh96SGh5dmeB35HZ0h3T9GyKiuG9I_8"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/OAMTJ60PweIObIJDwcY-xJ1aPGj6olkYQcWYhVmoIGKNwNzJXlM6JVYkptfW_vGa7LoQ5_149gmsJXuKQaCvedZqKQIZz3ozryA",
+    "view_skin": "https://lh3.googleusercontent.com/YEhWoJPSxkWMOtblUPNcHC-YlJaMwGAf1C7GWza3upA-_2Du6ZmT0sxieCyUyFLGT3JR5tvHYbbBsTMbv7KP9zYi09FZm5mU75E"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/z0AOvVOV8TNiQQeOXV1lJW4CtzB0xWsSHl6YU1eVq7Ii0y-9CNxL9iNWOwIa2fA0JDwufzu6DtuTQE9qsXAgITI5D0ZQPE8G_w",
+    "view_skin": "https://lh3.googleusercontent.com/4EgWRbIAc7nqL3EC5R08kS-eJBjGQCGxMeD2qZCqDn3shXhkDs5tZJt3l77Fd90CrDNaHdYPzdkPaNyV7iq6xgKgnMxqaRSXWMs"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/qW9fFnZhy1F6JvVUV3KlsTr55qdllV8mrnYlxvGejXmxnsD8Z4NrIZzVR6oNxjpfqAONlLmR3d1AUZBgbpA973VHhaTmHjKOR18",
+    "view_skin": "https://lh3.googleusercontent.com/drTlP3lYHuIvJPM74cJ_GEh4kku6SeUrXzqORUvGzXmwbEXpOWmqSwxysdLbdgMHuM_SD6uRn5_RUYXEs6C2yNzRqWh3Kjr8eAE"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/g2LFpL-q368B_koMw9F3NA7rqtYKKp6WgFFvgdJVKElUnxFBxUtSSteLUrKjMmK0uR4n5wZeM0EQsjK4Ht75-52ECuvhPaftgXw",
+    "view_skin": "https://lh3.googleusercontent.com/kUf2pXmQitnIhzpGCKZZtyH9JjVzZRNYTLLxz7-_fS-l51zcB1AAH7Cz6a8FGE2peP_OBJQKVbvuiLW_m5oBpGh3-u1x2fw2EYA"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9TA8_RAWnDUizlnOs3ve13vkRkQtMiKhujhmYRBfQY2JBfLcr-7L56uNI9sg4mSuckaenejldBXBF-6fbUA41GA1h39OFDh56AE",
+    "view_skin": "https://lh3.googleusercontent.com/PxX02OGavlqohMvIG5AQdALLnoEpn9qdcW89Nkic8qO12ljMHJ5qLNvaChQZpeRfDMozOYg8zJKZhjXmWCUR0H3ogXWTapNmuvRj"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/z9gnlNW2OtDz94QFljzuUAweAbMJTuueDvJYyGJ7PmZf5LjlEFFXgTDBegHDLyMyHTeJ2hCBXsMXcqJRCRlAK23yPzbe8i6mhlk",
+    "view_skin": "https://lh3.googleusercontent.com/MzJo3yoF5Dn-x_0a3r3p2q0tuC1INPqb37311q0NjfkgbRWSFy-6aWYM-pqucWa7y0PVKqYfm84Fw4HyHtFtkpMkhlo-Vbq8gW0"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/LPpM5MicOFqlBJiaAd2IlCmgaQD9nP-AXdKs2unMmRA0MtQZainA9UPXxCRfcS7xYG-Q2RMFpMoLe7xS9pNZRCWzKMVdVrE-8wc",
+    "view_skin": "https://lh3.googleusercontent.com/NmQRhvsvWg7wHJW91v3-ZFWH12nyKE91KG6eAcRx72GDtrdQilposofOjJxVeZl6A72besgI0l123TrL5NXmQ6wvwaJWY4VNiuQ"
+  },
+  {
+    "id": 11,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/48KDk8lbuvE5qhW-iUoQD6r5uoWrPRJR7c8eNRSPG0mLKH-l2XtbSIdiY8sxFJ96Tkfb0lqBEbT5F9rQSI2lVC6m4HxMyRXzdrQ",
+    "view_skin": "https://lh3.googleusercontent.com/SYJiK5yIjtaf98ubgYGzyq-IkzYNXEIsoBpAZpQ4to6yis1eoXXwEvARDgavXsLDe1PlH0Rb3yV5i1t1923oXMlrJAE81I_iaek"
+  },
+  {
+    "id": 12,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/48KDk8lbuvE5qhW-iUoQD6r5uoWrPRJR7c8eNRSPG0mLKH-l2XtbSIdiY8sxFJ96Tkfb0lqBEbT5F9rQSI2lVC6m4HxMyRXzdrQ",
+    "view_skin": "https://lh3.googleusercontent.com/S4b1_u0506MdZ1E4aK-0nQlPSFW_8MwSgstq_3So9t7ozYmgnXK0L3yVxzeYoUZaC6WikosKnJXy5In-NwEpQLu3nzHzIynm294"
+  },
+  {
+    "id": 13,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/syoXF4TS-TKseol9qZfbwiRJj_47pFHd44iNc-sQ19YemagnQi5eNSGdMfSkzB8PvVYVsb3sW0Ci81uEpqrSohh8woY1E8SlCYM",
+    "view_skin": "https://lh3.googleusercontent.com/kqvw3bqiUHPBZDL2mawAbT5MgJkpuQ377hRlFS_3rvSk0UO59Zko7PjqedW6QQo4f8_igeTPfE7RYFCRg6Z_FWlckL5O1HIpj4c"
+  },
+  {
+    "id": 14,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/qxRn_PmO8JuRu95jzR21etrc3cxRTglUHv71jeVOBj8NRLj1HJBR4RKgdLkNF_Mhk1Q1ebkOYn-2wv2Ri4wHKZJQw8gx_gHVSg0",
+    "view_skin": "https://lh3.googleusercontent.com/A-U7TCi8cgXthQ5Bi42u8QapVC8Ge232PC_TZ7r3JkYXTQIhsYeQ0BqBaWkmutBZSzSc0gCpsi1hwNh2dNkFuOeqkOd5tpKD7tc"
+  },
+  {
+    "id": 15,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/qxRn_PmO8JuRu95jzR21etrc3cxRTglUHv71jeVOBj8NRLj1HJBR4RKgdLkNF_Mhk1Q1ebkOYn-2wv2Ri4wHKZJQw8gx_gHVSg0",
+    "view_skin": "https://lh3.googleusercontent.com/A-U7TCi8cgXthQ5Bi42u8QapVC8Ge232PC_TZ7r3JkYXTQIhsYeQ0BqBaWkmutBZSzSc0gCpsi1hwNh2dNkFuOeqkOd5tpKD7tc"
+  },
+  {
+    "id": 16,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/2Jlkr__km7HSPMO3_wiiRN9H4znIl1hdkMzxw8KMFLoOXOxTFFIP9L7OX6O6CLsUEm3zlMJbuKBOdjhiZxTzpqSpP7lDfovWkNmh",
+    "view_skin": "https://lh3.googleusercontent.com/B5z0-NV0jct2niUPaf5emTFeJGwC0lA-065T61YEUaqA3F0sQOz4swdTYQOk-BCQfChn8WhfP1RyJ57OB3CkhuryGC0kmmF-HUs"
+  },
+  {
+    "id": 17,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/DG2VMIAJwAN0mf5d3qdxN28UE9Srcu-L_2joWQmK-D-66i-wNwkNghhj2UVwpyY_kZs9yT0dhoq3cvOiuIYnJNf-s2QtGF-NtTg",
+    "view_skin": "https://lh3.googleusercontent.com/-dq3fU9abz6tpHy9-iwGglWf6_xHJk3wFxy5Vea076vPVJs_-dqoYBwr4TEvWOGTkguF72QXwFRZM3YZBL-UZGXVZJDnhPEDeg"
+  },
+  {
+    "id": 18,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/s-a_NyM6fQs6n-LBZ67dZX1AEsKSveI0WV3sDhOt4CgHwsczZ53qEDh6bbGGxkSnBFIj3rFhF4hBvxENgwgh6Ejiv3A5H39IRqw",
+    "view_skin": "https://lh3.googleusercontent.com/5DgGZEdREBwINvRjKE9XwgRB6XYWaYCzZGSoPbgqLNcguQpU4Blcc47dA2s6QDJrpdTUTK1A9NCRTnwDgy-Pd0LWYeUc5DbbqA"
+  },
+  {
+    "id": 19,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/8r-GMmyAwtOzh-UwCog6QdyONTIglD360ogKHfXa8knSAIhEd62NcMIPLdl_ZKvW4ZfKUKgMd2kdd58TcOsWDoNJchBVLxdqHN8",
+    "view_skin": "https://lh3.googleusercontent.com/-n4TN9ZCWZnTeCh3AyvlxAH8edjbcncfFes1XsMnoMRw2K8Fwu6V-EPFZlnpX23DW8uXSNeUEbQFuIpkr_VcQXTKsv4Ch7Fj4OU"
+  },
+  {
+    "id": 20,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/bl58BjyVRljUAGOwbucm5uXpOaSXYak3UYTinfiui3otAgMXesWxM0L2CNimDW17lw2HQygxvPOjjRDy94FLMluEcuzm7iw8nYM",
+    "view_skin": "https://lh3.googleusercontent.com/kD2eHPIplHJ343BTTiWrmurtxMDqZ-rEdm8MhOYr1wjNa3z_7avFzcCoggkcuWRtia9RVTCoS9uY8pVlXrJBUlm1n9LyMKWD-AA"
+  },
+  {
+    "id": 21,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/DG2VMIAJwAN0mf5d3qdxN28UE9Srcu-L_2joWQmK-D-66i-wNwkNghhj2UVwpyY_kZs9yT0dhoq3cvOiuIYnJNf-s2QtGF-NtTg",
+    "view_skin": "https://lh3.googleusercontent.com/IovjkEfKrJKEQn-earqgOZ0BoKdHq6U5uVZdkoLV8tKLWdyO0UYV3ouNj2pfwVkWRjf33_xtpFY7qqaJTiXG2zySpsa1Z120pQ"
+  },
+  {
+    "id": 22,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/YapkGWOfGVYruTBi_tO2ltoGTKY4r6mK-2hdGTCp8AMRAi-EcrsNvLB40RWXbcasFBefz4XxaFwGQATsJZqbfb_7aqkNQG_PV3A",
+    "view_skin": "https://lh3.googleusercontent.com/sEI3rb7fTpdt1ItKx6djiRSTslFzrusdEf6amUtYon1uqJbsgzfXSMrMzrZFX13eokbx2e1UtDp9IlNFhGVRRKI6XeqxLbDaBCpK"
+  },
+  {
+    "id": 23,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/hpAgLKFmyDBupa_CqKzfW4JgB4gTVYRgdm8gz61QKi4Iyf1OGVVxTuSQCbtc8hjFC-V_MLRI2IbJD-_7A4WOUIRkx6bg68jW66Q",
+    "view_skin": "https://lh3.googleusercontent.com/dr-W0j7o2L6ti_B8b6Q92IQGyKtuZNLq5NGQVAH-INqvZw4wYpTVKMhygbrGF0Dgao6H-RdU2qVKcBmc30CoyEUUv8vpCzbNgw"
+  },
+  {
+    "id": 24,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/BqxNj0Jpa0Zqf4qRBuzyZkUDWWh677WFI2dTOwmP4uRLu8CJhHUF01ZDPAUOqDxOZuCl5eB_Aw6KV4XXtB8XzGgZcrChHmvs9Rg",
+    "view_skin": "https://lh3.googleusercontent.com/75gSGrp2rD8VOh78XbHREWXBzm6fk_ez3hENxBzD2YN3XO4XYvl4_9fJrRYrLAOpZstSSJTTkmVJjoN2JbiDFasmO4CeyRdjF0U"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
